@@ -416,6 +416,11 @@ docker run -d -p 80:8080 guovern/iptv-api
 
 [如何使用推流？](./docs/tutorial.md#推流使用教程)
 
+## 资源地址
+[【终极导航】最全视频频道资源分享合集](https://tmxk.pp.ua/d/30-zhong-ji-dao-hang-zui-quan-shi-pin-pin-dao-zi-yuan-fen-xiang-he-ji-wang-zhan-shi-pin-di-tu)
+
+[全平台推荐---很棒的IPTV资源合集](https://tmxk.pp.ua/d/40-quan-ping-tai-tui-jian-hen-bang-de-iptvzi-yuan-he-ji-bo-fang-qi-epggong-ju-deng)
+
 ## 更新日志
 
 [更新日志](./CHANGELOG.md)
