@@ -14,6 +14,8 @@ services:
       - /iptv-api/output:/iptv-api/output
 
     environment:
+      LANG: "C.UTF-8"
+      PYTHONIOENCODING: "utf-8"
       PUBLIC_SCHEME: "http"
       # Replace with your public domain or IP
       PUBLIC_DOMAIN: "127.0.0.1"
